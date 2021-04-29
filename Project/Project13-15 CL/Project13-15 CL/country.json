@@ -1,0 +1,45 @@
+{
+  "countries": [
+    {
+      "countryId": 1,
+      "name": "Sweden",
+      "capital": "Stockholm",
+      "population": 10380245,
+      "currency": "Swedish krona",
+      "etymology": "\n\nThe word Sweden is derived from 17th century Middle Dutch and Middle Low German. In Old English the country was named Swéoland and Swíoríce (Old Norse Svíaríki). Anglo-Norman of the 12th and 13th centuries used Suane, Swane (with the adjective as Suaneis). In Scots Swane, Swaine, appears in the 16th century. Early Modern English used Swedeland. \n\nThe Swedish name Sverige (a compound of the words Svea and rike, with lenition of the consonant [k], first recorded in the cognate Swēorice in Beowulf) literally means realm of the Swedes, excluding the Geats in Götaland. "
+    },
+    {
+      "countryId": 2,
+      "name": "Norway",
+      "capital": "Oslo",
+      "population": 5384576,
+      "currency": "Norwegian krone",
+      "etymology":"\n\nNorway has two official names: Norge in Bokmål and Noreg in Nynorsk. The English name Norway comes from the Old English word Norþweg mentioned in 880, meaning northern way or way leading to the north, which is how the Anglo-Saxons referred to the coastline of Atlantic Norway similar to leading theory about the origin of the Norwegian language name.The Anglo-Saxons of Britain also referred to the kingdom of Norway in 880 as Norðmanna land"
+    },
+    {
+      "countryId": 3,
+      "name": "Finland",
+      "capital": "Helsinki",
+      "population": 5528737,
+      "currency": "Euro",
+      "etymology": "\n\nThe earliest written appearance of the name Finland is thought to be on three runestones. Two were found in the Swedish province of Uppland and have the inscription finlonti. The third was found in Gotland. \n\nIt has the inscription finlandi and dates back to the 13th century. The name can be assumed to be related to the tribe name Finns, which is mentioned at first known time AD 98"
+    },
+    {
+      "countryId": 4,
+      "name": "Denmark",
+      "capital": "Copenhagen",
+      "population": 5837213,
+      "currency": "Danish krone",
+      "etymology": "\n\nThe etymology of the name Denmark, the relationship between Danes and Denmark, and the emergence of Denmark as a unified kingdom are topics of continuous scholarly debate. This is centered primarily on the prefix Dan and whether it refers to the Dani or a historical person Dan and the exact meaning of the -mark ending. \n\nMost etymological dictionaries and handbooks derive Dan from a word meaning flat land, related to German Tenne threshing floor, English den cave The element mark is believed to mean woodland or borderland (see marches), with probable references to the border forests in south Schleswig."
+    },
+    {
+      "countryId": 5,
+      "name": "Germany",
+      "capital": "Berlin",
+      "population": 8316671,
+      "currency": "Euro",
+      "etymology": "\n\nThe English word Germany derives from the Latin Germania, which came into use after Julius Caesar adopted it for the peoples east of the Rhine. The German term Deutschland, originally diutisciu land (the German lands) is derived from deutsch, descended from Old High German diutisc of the people (from diot or diota people), originally used to distinguish the language of the common people from Latin and its Romance descendants. \n\nThis in turn descends from Proto-Germanic *þiudiskaz of the people (see also the Latinised form Theodiscus), derived from *þeudō, descended from Proto-Indo-European *tewtéh₂- people, from which the word Teutons also originates."
+      
+    }
+  ]
+}
