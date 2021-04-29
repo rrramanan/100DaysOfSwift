@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseVersion</key>
+	<string>1.1</string>
+	<key>DiffPackType</key>
+	<string>UserEdit</string>
+	<key>DocumentType</key>
+	<string>PlaygroundBook</string>
+	<key>Name</key>
+	<string>com.hackingwithswift.playgrounds.coregraphics</string>
+	<key>UpdateVersion</key>
+	<string>1.1</string>
+	<key>Updates</key>
+	<dict>
+		<key>Added</key>
+		<array/>
+		<key>Modified</key>
+		<array>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Rectangles.playgroundpage/Contents.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Rectangles.playgroundpage/Contents.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Stripes.playgroundpage/Contents.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Stripes.playgroundpage/Contents.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Flags.playgroundpage/Contents.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Flags.playgroundpage/Contents.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Checkerboards.playgroundpage/Contents.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Checkerboards.playgroundpage/Contents.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Ellipses.playgroundpage/Contents.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Ellipses.playgroundpage/Contents.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Flowers.playgroundpage/Contents.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Flowers.playgroundpage/Contents.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Strokes.playgroundpage/Contents.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Strokes.playgroundpage/Contents.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Rainbows.playgroundpage/Contents.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Rainbows.playgroundpage/Contents.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Emoji.playgroundpage/Contents.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Emoji.playgroundpage/Contents.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Advanced Drawing.playgroundchapter/Pages/Text.playgroundpage/Contents.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Advanced Drawing.playgroundchapter/Pages/Text.playgroundpage/Contents.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Advanced Drawing.playgroundchapter/Pages/Lines.playgroundpage/Contents.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Advanced Drawing.playgroundchapter/Pages/Lines.playgroundpage/Contents.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Advanced Drawing.playgroundchapter/Pages/Translation.playgroundpage/Contents.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Advanced Drawing.playgroundchapter/Pages/Translation.playgroundpage/Contents.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Advanced Drawing.playgroundchapter/Pages/Rotation.playgroundpage/Contents.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Advanced Drawing.playgroundchapter/Pages/Rotation.playgroundpage/Contents.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Advanced Drawing.playgroundchapter/Pages/Blending.playgroundpage/Contents.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Advanced Drawing.playgroundchapter/Pages/Blending.playgroundpage/Contents.swift</string>
+			</dict>
+			<dict>
+				<key>Diff</key>
+				<string>Chapters/Advanced Drawing.playgroundchapter/Pages/Images.playgroundpage/Contents.swift.delta</string>
+				<key>File</key>
+				<string>Chapters/Advanced Drawing.playgroundchapter/Pages/Images.playgroundpage/Contents.swift</string>
+			</dict>
+		</array>
+		<key>Removed</key>
+		<array/>
+		<key>Replaced</key>
+		<array/>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>    UIColor.red.setFill()
+    ctx.cgContext.fill(CGRect(x: 400, y: 400, width: 200, height: 200))
+</string>
+			<key>ModifiedRange</key>
+			<string>{979, 98}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{979, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Rectangles.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

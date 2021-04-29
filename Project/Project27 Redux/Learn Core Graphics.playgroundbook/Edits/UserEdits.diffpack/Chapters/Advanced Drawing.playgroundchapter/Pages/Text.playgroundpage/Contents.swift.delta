@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>    let secondPosition = rect.offsetBy(dx: 0, dy: 400)
+    let secondText = "But the second mouse gets the cheese"
+    let secondAttrs: [NSAttributedString.Key: Any] = [
+    .font: UIFont.systemFont(ofSize: 72),
+    .foregroundColor: UIColor.red
+    ]
+    
+    let secondString = NSAttributedString(string: secondText, attributes: secondAttrs)
+    secondString.draw(in: secondPosition)
+</string>
+			<key>ModifiedRange</key>
+			<string>{1242, 386}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1242, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Advanced Drawing.playgroundchapter/Pages/Text.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

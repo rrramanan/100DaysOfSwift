@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Hints</key>
+    <array>
+        <dict>
+            <key>Content</key>
+            <string>A good frame ought to have equal spacing on all sides. Given that the frame is 640 while the image is 600, that means positioning it 20 pixels above and to the left of the image.</string>
+        </dict>
+    </array>
+</dict>
+</plist>

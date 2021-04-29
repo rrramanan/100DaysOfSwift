@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Hints</key>
+    <array>
+        <dict>
+            <key>Content</key>
+            <string>Start by changing the `translateBy()` call so that the drawing happens in the center of the image. This will let you see what you're working with.</string>
+        </dict>
+        <dict>
+            <key>Content</key>
+            <string>The original code draws six rectangles, but this needs eight.</string>
+        </dict>
+        <dict>
+            <key>Content</key>
+            <string>If six rectangles needed `.pi / 3` to rotate correctly, what would eight rectangles need?</string>
+        </dict>
+    </array>
+</dict>
+</plist>

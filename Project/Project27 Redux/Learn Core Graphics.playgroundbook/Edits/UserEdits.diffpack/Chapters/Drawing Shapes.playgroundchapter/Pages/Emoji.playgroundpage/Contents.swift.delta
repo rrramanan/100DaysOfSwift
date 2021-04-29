@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>10</string>
+			<key>ModifiedRange</key>
+			<string>{937, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{937, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>10</string>
+			<key>ModifiedRange</key>
+			<string>{945, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{943, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>    
+    UIColor.black.setFill()
+    let leftEye = CGRect(x: 250, y: 300, width: 150, height: 150)
+    ctx.cgContext.addEllipse(in: leftEye)
+    ctx.cgContext.drawPath(using: .fillStroke)
+    
+    let rightEye = CGRect(x: 600, y: 300, width: 150, height: 150)
+    ctx.cgContext.addEllipse(in: rightEye)
+    ctx.cgContext.drawPath(using: .fillStroke)
+    
+    UIColor.black.setStroke()
+    UIColor.brown.setFill()
+    let mouth = CGRect(x: 350, y: 500, width: 300, height: 300)
+    ctx.cgContext.addEllipse(in: mouth)
+    ctx.cgContext.drawPath(using: .fillStroke)
+    
+</string>
+			<key>ModifiedRange</key>
+			<string>{1061, 569}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1057, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Emoji.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ImageReference</key>
+	<string>bookThumbnail.png</string>	
+	<key>Version</key>
+	<string>4.0</string>
+	<key>ContentVersion</key>
+	<string>1.1</string>
+	<key>Name</key>
+	<string>Learn Core Graphics</string>
+	<key>ContentIdentifier</key>
+	<string>com.hackingwithswift.playgrounds.coregraphics</string>
+	<key>DeploymentTarget</key>
+	<string>ios12.0</string>
+	<key>DevelopmentRegion</key>
+	<string>en</string>
+	<key>SwiftVersion</key>
+	<string>5.0</string>
+	<key>Chapters</key>
+	<array>
+		<string>Drawing Shapes.playgroundchapter</string>
+		<string>Advanced Drawing.playgroundchapter</string>
+		<string>Core Graphics Sandbox.playgroundchapter</string>
+	</array>
+</dict>
+</plist>

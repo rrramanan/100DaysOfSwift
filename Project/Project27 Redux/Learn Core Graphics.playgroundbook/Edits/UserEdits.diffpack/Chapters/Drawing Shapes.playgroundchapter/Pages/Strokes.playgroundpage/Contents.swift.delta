@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>    let circle1 = CGRect(x: 400, y: 100, width: 200, height: 200)
+    ctx.cgContext.setLineWidth(10)
+    ctx.cgContext.addEllipse(in: circle1)
+    ctx.cgContext.drawPath(using: .fillStroke)
+    
+    let circle2 = CGRect(x: 400, y: 700, width: 200, height: 200)
+    ctx.cgContext.setLineWidth(10)
+    ctx.cgContext.addEllipse(in: circle2)
+    ctx.cgContext.drawPath(using: .fillStroke)
+    
+    let circle3 = CGRect(x: 100, y: 400, width: 200, height: 200)
+    ctx.cgContext.setLineWidth(10)
+    ctx.cgContext.addEllipse(in: circle3)
+    ctx.cgContext.drawPath(using: .fillStroke)
+    
+    let circle4 = CGRect(x: 700, y: 400, width: 200, height: 200)
+    ctx.cgContext.setLineWidth(10)
+    ctx.cgContext.addEllipse(in: circle4)
+    ctx.cgContext.drawPath(using: .fillStroke)
+    
+</string>
+			<key>ModifiedRange</key>
+			<string>{1573, 780}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1573, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Strokes.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

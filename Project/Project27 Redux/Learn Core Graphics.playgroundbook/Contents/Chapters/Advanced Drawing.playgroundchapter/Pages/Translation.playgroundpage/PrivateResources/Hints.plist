@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Hints</key>
+    <array>
+        <dict>
+            <key>Content</key>
+            <string>Right now only three circles are being drawn, but you need seven.</string>
+        </dict>
+        <dict>
+            <key>Content</key>
+            <string>Once you have the correct number of circles, try adjusting their size to be correct.</string>
+        </dict>
+        <dict>
+            <key>Content</key>
+            <string>Finally, adjust the translation so that the circles are drawn in the correct place.</string>
+        </dict>
+    </array>
+</dict>
+</plist>

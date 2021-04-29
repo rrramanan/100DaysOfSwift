@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>50</string>
+			<key>ModifiedRange</key>
+			<string>{1270, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1270, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>50</string>
+			<key>ModifiedRange</key>
+			<string>{1278, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1276, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>8</string>
+			<key>ModifiedRange</key>
+			<string>{1301, 1}</string>
+			<key>OriginalContent</key>
+			<string>6</string>
+			<key>OriginalRange</key>
+			<string>{1297, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>4</string>
+			<key>ModifiedRange</key>
+			<string>{1388, 1}</string>
+			<key>OriginalContent</key>
+			<string>3</string>
+			<key>OriginalRange</key>
+			<string>{1384, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>    
+</string>
+			<key>ModifiedRange</key>
+			<string>{1397, 5}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{1393, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Advanced Drawing.playgroundchapter/Pages/Rotation.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

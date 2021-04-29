@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{728, 0}</string>
+			<key>OriginalContent</key>
+			<string> &lt;#T##image to</string>
+			<key>OriginalRange</key>
+			<string>{728, 14}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string></string>
+			<key>ModifiedRange</key>
+			<string>{729, 0}</string>
+			<key>OriginalContent</key>
+			<string>load##</string>
+			<key>OriginalRange</key>
+			<string>{743, 6}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>(named: "saltire")!</string>
+			<key>ModifiedRange</key>
+			<string>{736, 19}</string>
+			<key>OriginalContent</key>
+			<string>#&gt;</string>
+			<key>OriginalRange</key>
+			<string>{756, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>20</string>
+			<key>ModifiedRange</key>
+			<string>{916, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{919, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>20</string>
+			<key>ModifiedRange</key>
+			<string>{924, 2}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{925, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>2</string>
+			<key>ModifiedRange</key>
+			<string>{1021, 1}</string>
+			<key>OriginalContent</key>
+			<string>0</string>
+			<key>OriginalRange</key>
+			<string>{1020, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>2</string>
+			<key>ModifiedRange</key>
+			<string>{1029, 1}</string>
+			<key>OriginalContent</key>
+			<string>0</string>
+			<key>OriginalRange</key>
+			<string>{1028, 1}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Advanced Drawing.playgroundchapter/Pages/Images.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Hints</key>
+    <array>
+        <dict>
+            <key>Content</key>
+            <string>This time you need three rectangles: one for the background, one for the horizontal line, and one for the vertical line. Make sure you draw them in the correct order: back to front.</string>
+        </dict>
+    </array>
+</dict>
+</plist>

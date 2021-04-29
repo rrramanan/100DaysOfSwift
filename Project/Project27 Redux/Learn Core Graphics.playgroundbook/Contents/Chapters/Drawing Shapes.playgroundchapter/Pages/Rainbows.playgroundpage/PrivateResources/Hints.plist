@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Hints</key>
+    <array>
+        <dict>
+            <key>Content</key>
+            <string>Each time a color is drawn, you need to move down and to the right a little, but also draw a smaller circle.</string>
+        </dict>
+        <dict>
+            <key>Content</key>
+            <string>Try using 50 for the xPos adjustment.</string>
+            <key>SpoilerButtonTitle</key>
+            <string>Show Spoiler</string>
+        </dict>
+    </array>
+</dict>
+</plist>

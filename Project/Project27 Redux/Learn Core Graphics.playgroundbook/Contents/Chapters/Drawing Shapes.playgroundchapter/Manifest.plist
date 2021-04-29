@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Drawing shapes</string>
+	<key>Pages</key>
+	<array>
+		<string>Rectangles.playgroundpage</string>
+		<string>Stripes.playgroundpage</string>
+		<string>Flags.playgroundpage</string>
+		<string>Checkerboards.playgroundpage</string>
+		<string>Ellipses.playgroundpage</string>
+		<string>Flowers.playgroundpage</string>
+		<string>Strokes.playgroundpage</string>
+		<string>Rainbows.playgroundpage</string>
+		<string>Emoji.playgroundpage</string>
+	</array>
+</dict>
+</plist>

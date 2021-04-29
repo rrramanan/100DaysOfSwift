@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>    UIColor.yellow.setFill()
+    let circle2 = CGRect(x: 500, y: 0, width: 500, height: 500)
+    ctx.cgContext.fillEllipse(in: circle2)
+    
+    UIColor.blue.setFill()
+    let circle3 = CGRect(x: 0, y: 500, width: 500, height: 500)
+    ctx.cgContext.fillEllipse(in: circle3)
+    
+    UIColor.green.setFill()
+    let circle4 = CGRect(x: 500, y: 500, width: 500, height: 500)
+    ctx.cgContext.fillEllipse(in: circle4)
+</string>
+			<key>ModifiedRange</key>
+			<string>{955, 417}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{955, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Ellipses.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

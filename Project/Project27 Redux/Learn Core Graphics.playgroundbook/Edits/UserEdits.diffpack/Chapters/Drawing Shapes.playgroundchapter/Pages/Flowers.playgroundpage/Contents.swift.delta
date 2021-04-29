@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>1</string>
+			<key>ModifiedRange</key>
+			<string>{889, 1}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{889, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>1</string>
+			<key>ModifiedRange</key>
+			<string>{896, 1}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{895, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>    let circle2 = CGRect(x: 490, y: 10, width: 500, height: 500)
+    ctx.cgContext.fillEllipse(in: circle2)
+    let circle3 = CGRect(x: 10, y: 490, width: 500, height: 500)
+    ctx.cgContext.fillEllipse(in: circle3)
+    let circle4 = CGRect(x: 490, y: 490, width: 500, height: 500)
+    ctx.cgContext.fillEllipse(in: circle4)
+    UIColor.black.setFill()
+    let circle5 = CGRect(x: 400, y: 400, width: 200, height: 200)
+    ctx.cgContext.fillEllipse(in: circle5)
+    
+</string>
+			<key>ModifiedRange</key>
+			<string>{968, 467}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{966, 0}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Drawing Shapes.playgroundchapter/Pages/Flowers.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

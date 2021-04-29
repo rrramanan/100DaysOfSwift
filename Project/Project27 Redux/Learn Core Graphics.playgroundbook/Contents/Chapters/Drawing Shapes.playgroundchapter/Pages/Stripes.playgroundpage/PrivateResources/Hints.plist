@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Hints</key>
+    <array>
+        <dict>
+            <key>Content</key>
+            <string>Start by copying and pasting the existing red rectangle, then adjusting its X and Y coordinates. The colors are all built into `UIColor`.</string>
+        </dict>
+    </array>
+</dict>
+</plist>
