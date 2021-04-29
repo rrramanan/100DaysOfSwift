@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17126"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Project22" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="98X-o9-5RP">
+                                <rect key="frame" x="79" y="325" width="256" height="256"/>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="UNKNOWN" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hkX-bC-3MM">
+                                <rect key="frame" x="111" y="429" width="192" height="48"/>
+                                <fontDescription key="fontDescription" type="system" weight="thin" pointSize="40"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Beacon Name NA" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NbT-oB-T2W">
+                                <rect key="frame" x="97" y="115" width="220" height="26.5"/>
+                                <fontDescription key="fontDescription" type="system" weight="light" pointSize="22"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="98X-o9-5RP" firstAttribute="height" secondItem="8bC-Xf-vdC" secondAttribute="height" multiplier="0.285714" id="4vz-a0-Dy2"/>
+                            <constraint firstItem="98X-o9-5RP" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="D4J-2x-DdC"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="NbT-oB-T2W" secondAttribute="trailing" constant="97" id="EcB-hv-fNW"/>
+                            <constraint firstItem="98X-o9-5RP" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="TTU-kl-ipB"/>
+                            <constraint firstItem="hkX-bC-3MM" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="XQg-Nq-2Ti"/>
+                            <constraint firstItem="NbT-oB-T2W" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="97" id="b3r-a7-67i"/>
+                            <constraint firstItem="hkX-bC-3MM" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="doL-m1-Onh"/>
+                            <constraint firstItem="NbT-oB-T2W" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="71" id="k4W-1i-2Ki"/>
+                            <constraint firstItem="98X-o9-5RP" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" multiplier="0.618357" id="rDI-oT-btK"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="circleView" destination="98X-o9-5RP" id="07R-X2-gYn"/>
+                        <outlet property="distanceReading" destination="hkX-bC-3MM" id="lAA-tX-GqA"/>
+                        <outlet property="titleLabel" destination="NbT-oB-T2W" id="f1f-uJ-3zA"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="128.98550724637681" y="75.669642857142847"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
