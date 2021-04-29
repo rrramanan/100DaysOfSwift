@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="zNE-df-LMH">
+    <device id="retina6_0" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17126"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="kDV-nZ-wJC">
+            <objects>
+                <viewController id="G4h-ZH-02t" customClass="ViewController" customModule="Project7_9_CL" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="oyg-lZ-vd9">
+                        <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="HANGMAN CHALLENGE" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8tF-CY-Jq2">
+                                <rect key="frame" x="74" y="208" width="242" height="77"/>
+                                <color key="backgroundColor" systemColor="systemIndigoColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="77" id="k1U-Ub-Pud"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="242" id="xy7-2q-k8m"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name=".AppleSystemUIFont" family=".AppleSystemUIFont" pointSize="18"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="   Status: Not Played" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VZp-rJ-WVc">
+                                <rect key="frame" x="109.66666666666669" y="354" width="171" height="38"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="38" id="8DK-aH-eC0"/>
+                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="171" id="iq3-XC-8wz"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6gj-gH-KQo"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="VZp-rJ-WVc" firstAttribute="centerX" secondItem="6gj-gH-KQo" secondAttribute="centerX" id="Erj-N6-IXU"/>
+                            <constraint firstItem="8tF-CY-Jq2" firstAttribute="top" secondItem="6gj-gH-KQo" secondAttribute="top" constant="120" id="FjX-Ou-k8e"/>
+                            <constraint firstItem="VZp-rJ-WVc" firstAttribute="top" secondItem="8tF-CY-Jq2" secondAttribute="bottom" constant="69" id="OEY-yL-JdJ"/>
+                            <constraint firstItem="8tF-CY-Jq2" firstAttribute="centerX" secondItem="6gj-gH-KQo" secondAttribute="centerX" id="mqN-Sj-Pct"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="EER-ME-hRE"/>
+                    <connections>
+                        <outlet property="statusLabel" destination="VZp-rJ-WVc" id="SI7-lj-pxW"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="s5T-8Q-2mV" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="755.07246376811599" y="-54.241071428571423"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="rNk-fG-hWV">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="zNE-df-LMH" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="myd-Xi-weX">
+                        <rect key="frame" x="0.0" y="44" width="390" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="G4h-ZH-02t" kind="relationship" relationship="rootViewController" id="gnS-n8-IvR"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="hfs-pv-uf7" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-155.07246376811597" y="-54.241071428571423"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemIndigoColor">
+            <color red="0.34509803921568627" green="0.33725490196078434" blue="0.83921568627450982" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>
